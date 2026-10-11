@@ -1,7 +1,7 @@
 [
   {
     "article_number": 1,
-    "name": "自媒体内容工作流",
+    "name": "Self Media Skills",
     "repository": "yanhua1010/self-media-content-workflow",
     "url": "https://github.com/yanhua1010/self-media-content-workflow",
     "branch": "main",
@@ -81,7 +81,7 @@
   },
   {
     "article_number": 4,
-    "name": "宝玉 Skills",
+    "name": "baoyu-skills",
     "repository": "JimLiu/baoyu-skills",
     "url": "https://github.com/JimLiu/baoyu-skills",
     "branch": "main",
@@ -124,7 +124,7 @@
   },
   {
     "article_number": 5,
-    "name": "归藏社交卡片",
+    "name": "Guizang Social Card Skill",
     "repository": "op7418/guizang-social-card-skill",
     "url": "https://github.com/op7418/guizang-social-card-skill",
     "branch": "main",
@@ -143,7 +143,7 @@
   },
   {
     "article_number": 6,
-    "name": "Punk Skills",
+    "name": "Punk Skill",
     "repository": "adrianpunk/Punk-Skill",
     "url": "https://github.com/adrianpunk/Punk-Skill",
     "branch": "main",
@@ -165,7 +165,7 @@
   },
   {
     "article_number": 7,
-    "name": "小黑手绘配图",
+    "name": "Ian Xiaohei Illustrations",
     "repository": "helloianneo/ian-xiaohei-illustrations",
     "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
     "branch": "main",
@@ -183,7 +183,7 @@
   },
   {
     "article_number": 8,
-    "name": "写了就发",
+    "name": "Write Then Publish",
     "repository": "fxyadela/write-then-publish",
     "url": "https://github.com/fxyadela/write-then-publish",
     "branch": "main",
@@ -199,7 +199,7 @@
   },
   {
     "article_number": 14,
-    "name": "小红书运营",
+    "name": "xiaohongshu-ops",
     "repository": "Xiangyu-CAS/xiaohongshu-ops-skill",
     "url": "https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill",
     "branch": "main",

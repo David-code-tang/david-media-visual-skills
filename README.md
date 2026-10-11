@@ -49,14 +49,14 @@ python3 skills/media-visual-hub/scripts/catalog.py brief --style 4-C03 --content
 
 | 原文编号 | 项目 | 主要用途 |
 | --- | --- | --- |
-| 1 | [自媒体内容工作流](https://github.com/yanhua1010/self-media-content-workflow) | 文章配图工作流 |
+| 1 | [Self Media Skills](https://github.com/yanhua1010/self-media-content-workflow) | 文章配图工作流 |
 | 2 | [Creator Buddy](https://github.com/SpaceZephyr/creator-buddy) | 封面、组图、图表与逻辑图 |
-| 4 | [宝玉 Skills](https://github.com/JimLiu/baoyu-skills) | 封面、配图、信息图、漫画、组图 |
-| 5 | [归藏社交卡片](https://github.com/op7418/guizang-social-card-skill) | 图文卡片、封面排版 |
-| 6 | [Punk Skills](https://github.com/adrianpunk/Punk-Skill) | 封面、真人 IP、头像 |
+| 4 | [baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 封面、配图、信息图、漫画、组图 |
+| 5 | [Guizang Social Card Skill](https://github.com/op7418/guizang-social-card-skill) | 图文卡片、封面排版 |
+| 6 | [Punk Skill](https://github.com/adrianpunk/Punk-Skill) | 封面、真人 IP、头像 |
 | 7 | [小黑配图](https://github.com/helloianneo/ian-xiaohei-illustrations) | 白底手绘解释图 |
-| 8 | [写了就发](https://github.com/fxyadela/write-then-publish) | 已有内容排版应用；当前索引未发现 SKILL.md |
-| 14 | [小红书运营](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill) | 小红书封面 |
+| 8 | [Write Then Publish](https://github.com/fxyadela/write-then-publish) | 已有内容排版应用；当前索引未发现 SKILL.md |
+| 14 | [xiaohongshu-ops](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill) | 小红书封面 |
 | 15 | [WeWrite](https://github.com/imraywang/wewrite) | 文章封面、插图和排版 |
 
 例如只获取 Punk：
