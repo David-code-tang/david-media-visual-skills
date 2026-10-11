@@ -3,7 +3,7 @@ name: media-visual-hub
 description: 从个人自媒体图片样片库选择封面、正文配图、组图或信息图风格，按样片编号制作 GPT 生图任务，或定位对应上游 Skill。用于看图选风格、文章配图和复用满意成品。
 ---
 
-# 自媒体图片合集
+# David 的自媒体图片合集
 
 本 Skill 是统一选样与生成入口。样片目录位于 `references/samples.json`，可独立打开的选样库位于 `assets/gallery.html`；所有路径相对本 Skill 目录。`scripts/catalog.py` 仅使用 Python 标准库，可在任意工作目录运行。
 

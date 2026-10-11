@@ -1,12 +1,12 @@
-# 自媒体封面与配图合集
+# David 的自媒体封面与配图合集
 
 给自己使用的图片项目合集：9 个上游项目、186 张官方样片/版式/界面参考，以及一个可独立安装的 `media-visual-hub` 统一入口。按用途看图选风格，交给 GPT 制作，满意成品再归档复用。
 
 **快速开始：** 克隆本仓库，打开 [样片库](skills/media-visual-hub/assets/gallery.html)（本地双击此文件；GitHub 文件页面不会执行交互界面）。先选用途，再收藏或选择样片。联网才能加载远程图片。
 
 ```bash
-git clone https://github.com/David-code-tang/media-visual-skills.git
-cd media-visual-skills
+git clone https://github.com/David-code-tang/david-media-visual-skills.git
+cd david-media-visual-skills
 ```
 
 私有仓库需要有读取权限的 GitHub 登录。
@@ -17,7 +17,7 @@ cd media-visual-skills
 
 将本仓库链接交给 Codex：
 
-> 请安装这个仓库里的 skills/media-visual-hub：https://github.com/David-code-tang/media-visual-skills
+> 请安装这个仓库里的 skills/media-visual-hub：https://github.com/David-code-tang/david-media-visual-skills
 
 也可以将 `skills/media-visual-hub` 整个目录复制到自己的 skills 目录。它包含完整样片索引和选样页，不依赖这台电脑的绝对路径。安装完成后在新对话使用：
 
