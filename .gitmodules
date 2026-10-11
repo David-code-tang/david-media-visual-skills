@@ -1,0 +1,27 @@
+[submodule "upstream/self-media-content-workflow"]
+	path = upstream/self-media-content-workflow
+	url = https://github.com/yanhua1010/self-media-content-workflow.git
+[submodule "upstream/creator-buddy"]
+	path = upstream/creator-buddy
+	url = https://github.com/SpaceZephyr/creator-buddy.git
+[submodule "upstream/baoyu-skills"]
+	path = upstream/baoyu-skills
+	url = https://github.com/JimLiu/baoyu-skills.git
+[submodule "upstream/guizang-social-card-skill"]
+	path = upstream/guizang-social-card-skill
+	url = https://github.com/op7418/guizang-social-card-skill.git
+[submodule "upstream/Punk-Skill"]
+	path = upstream/Punk-Skill
+	url = https://github.com/adrianpunk/Punk-Skill.git
+[submodule "upstream/ian-xiaohei-illustrations"]
+	path = upstream/ian-xiaohei-illustrations
+	url = https://github.com/helloianneo/ian-xiaohei-illustrations.git
+[submodule "upstream/write-then-publish"]
+	path = upstream/write-then-publish
+	url = https://github.com/fxyadela/write-then-publish.git
+[submodule "upstream/xiaohongshu-ops-skill"]
+	path = upstream/xiaohongshu-ops-skill
+	url = https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill.git
+[submodule "upstream/wewrite"]
+	path = upstream/wewrite
+	url = https://github.com/imraywang/wewrite.git

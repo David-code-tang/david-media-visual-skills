@@ -1,0 +1,1345 @@
+{
+  "cover": [
+    {
+      "title": "封面风格样本 · 20 张",
+      "note": "仓库保留的命名风格示例。当前封面技能采用多维组合，并非只有这 20 个固定模板。",
+      "source": "https://github.com/JimLiu/baoyu-skills",
+      "items": [
+        {
+          "id": "4-C01",
+          "name": "技术蓝图",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/blueprint.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/blueprint.webp"
+        },
+        {
+          "id": "4-C02",
+          "name": "醒目编辑",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/bold-editorial.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/bold-editorial.webp"
+        },
+        {
+          "id": "4-C03",
+          "name": "黑板粉笔",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/chalkboard.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/chalkboard.webp"
+        },
+        {
+          "id": "4-C04",
+          "name": "暗色氛围",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/dark-atmospheric.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/dark-atmospheric.webp"
+        },
+        {
+          "id": "4-C05",
+          "name": "编辑信息图",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/editorial-infographic.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/editorial-infographic.webp"
+        },
+        {
+          "id": "4-C06",
+          "name": "典雅",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/elegant.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/elegant.webp"
+        },
+        {
+          "id": "4-C07",
+          "name": "奇幻动画",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/fantasy-animation.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/fantasy-animation.webp"
+        },
+        {
+          "id": "4-C08",
+          "name": "扁平涂鸦",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/flat-doodle.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/flat-doodle.webp"
+        },
+        {
+          "id": "4-C09",
+          "name": "直觉机器",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/intuition-machine.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/intuition-machine.webp"
+        },
+        {
+          "id": "4-C10",
+          "name": "极简",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/minimal.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/minimal.webp"
+        },
+        {
+          "id": "4-C11",
+          "name": "自然",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/nature.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/nature.webp"
+        },
+        {
+          "id": "4-C12",
+          "name": "Notion 笔记",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/notion.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/notion.webp"
+        },
+        {
+          "id": "4-C13",
+          "name": "像素",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/pixel-art.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/pixel-art.webp"
+        },
+        {
+          "id": "4-C14",
+          "name": "趣味",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/playful.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/playful.webp"
+        },
+        {
+          "id": "4-C15",
+          "name": "复古",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/retro.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/retro.webp"
+        },
+        {
+          "id": "4-C16",
+          "name": "手绘笔记",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/sketch-notes.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/sketch-notes.webp"
+        },
+        {
+          "id": "4-C17",
+          "name": "矢量插画",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/vector-illustration.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/vector-illustration.webp"
+        },
+        {
+          "id": "4-C18",
+          "name": "怀旧",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/vintage.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/vintage.webp"
+        },
+        {
+          "id": "4-C19",
+          "name": "温暖",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/warm.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/warm.webp"
+        },
+        {
+          "id": "4-C20",
+          "name": "水彩",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/watercolor.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/cover-image-styles/watercolor.webp"
+        }
+      ]
+    },
+    {
+      "title": "当前封面组合选项 · 11 套配色 × 7 种画法",
+      "note": "这组是配置名称，没有逐一对应的 77 张官方效果图。",
+      "source": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-cover-image",
+      "names": [
+        "配色：温暖、典雅、冷色、暗色、大地色、鲜艳、柔和、单色、复古、双色、马卡龙",
+        "画法：扁平矢量、手绘、绘画、数字绘画、像素、粉笔、丝网印刷"
+      ]
+    }
+  ],
+  "illustration": [
+    {
+      "title": "正文配图风格 · 21 张",
+      "note": "作者仓库公开样本；点击图片查看原图。",
+      "source": "https://github.com/JimLiu/baoyu-skills",
+      "items": [
+        {
+          "id": "4-I01",
+          "name": "技术蓝图",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/blueprint.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/blueprint.webp"
+        },
+        {
+          "id": "4-I02",
+          "name": "黑板粉笔",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/chalkboard.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/chalkboard.webp"
+        },
+        {
+          "id": "4-I03",
+          "name": "编辑插画",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/editorial.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/editorial.webp"
+        },
+        {
+          "id": "4-I04",
+          "name": "典雅",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/elegant.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/elegant.webp"
+        },
+        {
+          "id": "4-I05",
+          "name": "奇幻动画",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/fantasy-animation.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/fantasy-animation.webp"
+        },
+        {
+          "id": "4-I06",
+          "name": "扁平涂鸦",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/flat-doodle.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/flat-doodle.webp"
+        },
+        {
+          "id": "4-I07",
+          "name": "扁平",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/flat.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/flat.webp"
+        },
+        {
+          "id": "4-I08",
+          "name": "直觉机器",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/intuition-machine.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/intuition-machine.webp"
+        },
+        {
+          "id": "4-I09",
+          "name": "极简",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/minimal.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/minimal.webp"
+        },
+        {
+          "id": "4-I10",
+          "name": "自然",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/nature.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/nature.webp"
+        },
+        {
+          "id": "4-I11",
+          "name": "Notion 笔记",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/notion.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/notion.webp"
+        },
+        {
+          "id": "4-I12",
+          "name": "像素",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/pixel-art.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/pixel-art.webp"
+        },
+        {
+          "id": "4-I13",
+          "name": "趣味",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/playful.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/playful.webp"
+        },
+        {
+          "id": "4-I14",
+          "name": "复古",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/retro.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/retro.webp"
+        },
+        {
+          "id": "4-I15",
+          "name": "科学",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/scientific.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/scientific.webp"
+        },
+        {
+          "id": "4-I16",
+          "name": "手绘笔记",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/sketch-notes.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/sketch-notes.webp"
+        },
+        {
+          "id": "4-I17",
+          "name": "速写",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/sketch.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/sketch.webp"
+        },
+        {
+          "id": "4-I18",
+          "name": "矢量插画",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/vector-illustration.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/vector-illustration.webp"
+        },
+        {
+          "id": "4-I19",
+          "name": "怀旧",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/vintage.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/vintage.webp"
+        },
+        {
+          "id": "4-I20",
+          "name": "温暖",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/warm.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/warm.webp"
+        },
+        {
+          "id": "4-I21",
+          "name": "水彩",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/watercolor.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/article-illustrator-styles/watercolor.webp"
+        }
+      ]
+    },
+    {
+      "title": "小红书组图风格 · 9 张",
+      "note": "作者仓库公开样本；点击图片查看原图。",
+      "source": "https://github.com/JimLiu/baoyu-skills",
+      "items": [
+        {
+          "id": "4-X01",
+          "name": "醒目",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/bold.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/bold.webp"
+        },
+        {
+          "id": "4-X02",
+          "name": "黑板粉笔",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/chalkboard.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/chalkboard.webp"
+        },
+        {
+          "id": "4-X03",
+          "name": "可爱",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/cute.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/cute.webp"
+        },
+        {
+          "id": "4-X04",
+          "name": "清新",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/fresh.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/fresh.webp"
+        },
+        {
+          "id": "4-X05",
+          "name": "极简",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/minimal.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/minimal.webp"
+        },
+        {
+          "id": "4-X06",
+          "name": "Notion 笔记",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/notion.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/notion.webp"
+        },
+        {
+          "id": "4-X07",
+          "name": "波普",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/pop.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/pop.webp"
+        },
+        {
+          "id": "4-X08",
+          "name": "复古",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/retro.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/retro.webp"
+        },
+        {
+          "id": "4-X09",
+          "name": "温暖",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/warm.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-styles/warm.webp"
+        }
+      ]
+    },
+    {
+      "title": "信息图风格 · 17 张",
+      "note": "作者仓库公开样本；点击图片查看原图。",
+      "source": "https://github.com/JimLiu/baoyu-skills",
+      "items": [
+        {
+          "id": "4-F01",
+          "name": "复古学术",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/aged-academia.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/aged-academia.webp"
+        },
+        {
+          "id": "4-F02",
+          "name": "大胆图形",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/bold-graphic.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/bold-graphic.webp"
+        },
+        {
+          "id": "4-F03",
+          "name": "黑板粉笔",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/chalkboard.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/chalkboard.webp"
+        },
+        {
+          "id": "4-F04",
+          "name": "黏土动画",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/claymation.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/claymation.webp"
+        },
+        {
+          "id": "4-F05",
+          "name": "企业孟菲斯",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/corporate-memphis.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/corporate-memphis.webp"
+        },
+        {
+          "id": "4-F06",
+          "name": "手工纸艺",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/craft-handmade.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/craft-handmade.webp"
+        },
+        {
+          "id": "4-F07",
+          "name": "赛博霓虹",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/cyberpunk-neon.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/cyberpunk-neon.webp"
+        },
+        {
+          "id": "4-F08",
+          "name": "宜家说明书",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/ikea-manual.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/ikea-manual.webp"
+        },
+        {
+          "id": "4-F09",
+          "name": "萌系",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/kawaii.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/kawaii.webp"
+        },
+        {
+          "id": "4-F10",
+          "name": "整齐平铺",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/knolling.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/knolling.webp"
+        },
+        {
+          "id": "4-F11",
+          "name": "乐高积木",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/lego-brick.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/lego-brick.webp"
+        },
+        {
+          "id": "4-F12",
+          "name": "折纸",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/origami.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/origami.webp"
+        },
+        {
+          "id": "4-F13",
+          "name": "像素",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/pixel-art.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/pixel-art.webp"
+        },
+        {
+          "id": "4-F14",
+          "name": "绘本水彩",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/storybook-watercolor.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/storybook-watercolor.webp"
+        },
+        {
+          "id": "4-F15",
+          "name": "地铁图",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/subway-map.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/subway-map.webp"
+        },
+        {
+          "id": "4-F16",
+          "name": "技术原理图",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/technical-schematic.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/technical-schematic.webp"
+        },
+        {
+          "id": "4-F17",
+          "name": "界面线框",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/ui-wireframe.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-styles/ui-wireframe.webp"
+        }
+      ]
+    },
+    {
+      "title": "漫画风格 · 9 张",
+      "note": "作者仓库公开样本；点击图片查看原图。",
+      "source": "https://github.com/JimLiu/baoyu-skills",
+      "items": [
+        {
+          "id": "4-M01",
+          "name": "经典漫画",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/classic.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/classic.webp"
+        },
+        {
+          "id": "4-M02",
+          "name": "戏剧漫画",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/dramatic.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/dramatic.webp"
+        },
+        {
+          "id": "4-M03",
+          "name": "欧姆社科普漫画",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/ohmsha.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/ohmsha.webp"
+        },
+        {
+          "id": "4-M04",
+          "name": "写实漫画",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/realistic.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/realistic.webp"
+        },
+        {
+          "id": "4-M05",
+          "name": "棕褐怀旧",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/sepia.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/sepia.webp"
+        },
+        {
+          "id": "4-M06",
+          "name": "少女漫画",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/shoujo.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/shoujo.webp"
+        },
+        {
+          "id": "4-M07",
+          "name": "鲜艳",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/vibrant.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/vibrant.webp"
+        },
+        {
+          "id": "4-M08",
+          "name": "温暖",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/warm.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/warm.webp"
+        },
+        {
+          "id": "4-M09",
+          "name": "武侠",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/wuxia.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-styles/wuxia.webp"
+        }
+      ]
+    },
+    {
+      "title": "幻灯片插图与画面风格 · 16 张",
+      "note": "属于幻灯片技能的官方样本，单独列出，不混作正文配图预设。",
+      "source": "https://github.com/JimLiu/baoyu-skills",
+      "items": [
+        {
+          "id": "4-S01",
+          "name": "技术蓝图",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/blueprint.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/blueprint.webp"
+        },
+        {
+          "id": "4-S02",
+          "name": "醒目编辑",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/bold-editorial.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/bold-editorial.webp"
+        },
+        {
+          "id": "4-S03",
+          "name": "黑板粉笔",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/chalkboard.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/chalkboard.webp"
+        },
+        {
+          "id": "4-S04",
+          "name": "企业商务",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/corporate.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/corporate.webp"
+        },
+        {
+          "id": "4-S05",
+          "name": "暗色氛围",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/dark-atmospheric.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/dark-atmospheric.webp"
+        },
+        {
+          "id": "4-S06",
+          "name": "编辑信息图",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/editorial-infographic.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/editorial-infographic.webp"
+        },
+        {
+          "id": "4-S07",
+          "name": "奇幻动画",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/fantasy-animation.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/fantasy-animation.webp"
+        },
+        {
+          "id": "4-S08",
+          "name": "直觉机器",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/intuition-machine.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/intuition-machine.webp"
+        },
+        {
+          "id": "4-S09",
+          "name": "极简",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/minimal.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/minimal.webp"
+        },
+        {
+          "id": "4-S10",
+          "name": "Notion 笔记",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/notion.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/notion.webp"
+        },
+        {
+          "id": "4-S11",
+          "name": "像素",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/pixel-art.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/pixel-art.webp"
+        },
+        {
+          "id": "4-S12",
+          "name": "科学",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/scientific.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/scientific.webp"
+        },
+        {
+          "id": "4-S13",
+          "name": "手绘笔记",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/sketch-notes.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/sketch-notes.webp"
+        },
+        {
+          "id": "4-S14",
+          "name": "矢量插画",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/vector-illustration.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/vector-illustration.webp"
+        },
+        {
+          "id": "4-S15",
+          "name": "怀旧",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/vintage.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/vintage.webp"
+        },
+        {
+          "id": "4-S16",
+          "name": "水彩",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/watercolor.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/slide-deck-styles/watercolor.webp"
+        }
+      ]
+    },
+    {
+      "title": "小红书版式参考 · 6 张",
+      "note": "这是版式，不是另一种画风。",
+      "source": "https://github.com/JimLiu/baoyu-skills",
+      "items": [
+        {
+          "id": "4-L01",
+          "name": "均衡版式",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-layouts/balanced.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-layouts/balanced.webp"
+        },
+        {
+          "id": "4-L02",
+          "name": "对比版式",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-layouts/comparison.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-layouts/comparison.webp"
+        },
+        {
+          "id": "4-L03",
+          "name": "密集版式",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-layouts/dense.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-layouts/dense.webp"
+        },
+        {
+          "id": "4-L04",
+          "name": "流程版式",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-layouts/flow.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-layouts/flow.webp"
+        },
+        {
+          "id": "4-L05",
+          "name": "列表版式",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-layouts/list.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-layouts/list.webp"
+        },
+        {
+          "id": "4-L06",
+          "name": "稀疏版式",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-layouts/sparse.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/xhs-images-layouts/sparse.webp"
+        }
+      ]
+    },
+    {
+      "title": "信息图版式参考 · 20 张",
+      "note": "这是信息组织结构，不是另一种画风。",
+      "source": "https://github.com/JimLiu/baoyu-skills",
+      "items": [
+        {
+          "id": "4-D01",
+          "name": "桥梁",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/bridge.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/bridge.webp"
+        },
+        {
+          "id": "4-D02",
+          "name": "循环流程",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/circular-flow.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/circular-flow.webp"
+        },
+        {
+          "id": "4-D03",
+          "name": "对比表",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/comparison-table.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/comparison-table.webp"
+        },
+        {
+          "id": "4-D04",
+          "name": "做与不做",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/do-dont.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/do-dont.webp"
+        },
+        {
+          "id": "4-D05",
+          "name": "等式",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/equation.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/equation.webp"
+        },
+        {
+          "id": "4-D06",
+          "name": "特点列表",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/feature-list.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/feature-list.webp"
+        },
+        {
+          "id": "4-D07",
+          "name": "鱼骨",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/fishbone.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/fishbone.webp"
+        },
+        {
+          "id": "4-D08",
+          "name": "漏斗",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/funnel.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/funnel.webp"
+        },
+        {
+          "id": "4-D09",
+          "name": "网格卡片",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/grid-cards.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/grid-cards.webp"
+        },
+        {
+          "id": "4-D10",
+          "name": "冰山",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/iceberg.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/iceberg.webp"
+        },
+        {
+          "id": "4-D11",
+          "name": "旅程路径",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/journey-path.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/journey-path.webp"
+        },
+        {
+          "id": "4-D12",
+          "name": "层叠",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/layers-stack.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/layers-stack.webp"
+        },
+        {
+          "id": "4-D13",
+          "name": "思维导图",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/mind-map.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/mind-map.webp"
+        },
+        {
+          "id": "4-D14",
+          "name": "嵌套圆",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/nested-circles.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/nested-circles.webp"
+        },
+        {
+          "id": "4-D15",
+          "name": "优先级四象限",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/priority-quadrants.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/priority-quadrants.webp"
+        },
+        {
+          "id": "4-D16",
+          "name": "金字塔",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/pyramid.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/pyramid.webp"
+        },
+        {
+          "id": "4-D17",
+          "name": "天平",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/scale-balance.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/scale-balance.webp"
+        },
+        {
+          "id": "4-D18",
+          "name": "横向时间线",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/timeline-horizontal.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/timeline-horizontal.webp"
+        },
+        {
+          "id": "4-D19",
+          "name": "树状层级",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/tree-hierarchy.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/tree-hierarchy.webp"
+        },
+        {
+          "id": "4-D20",
+          "name": "韦恩图",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/venn.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/infographic-layouts/venn.webp"
+        }
+      ]
+    },
+    {
+      "title": "漫画版式参考 · 6 张",
+      "note": "这是漫画分镜布局，不是另一种画风。",
+      "source": "https://github.com/JimLiu/baoyu-skills",
+      "items": [
+        {
+          "id": "4-K01",
+          "name": "电影分镜版式",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-layouts/cinematic.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-layouts/cinematic.webp"
+        },
+        {
+          "id": "4-K02",
+          "name": "密集版式",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-layouts/dense.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-layouts/dense.webp"
+        },
+        {
+          "id": "4-K03",
+          "name": "混合漫画版式",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-layouts/mixed.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-layouts/mixed.webp"
+        },
+        {
+          "id": "4-K04",
+          "name": "大幅漫画版式",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-layouts/splash.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-layouts/splash.webp"
+        },
+        {
+          "id": "4-K05",
+          "name": "标准漫画版式",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-layouts/standard.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-layouts/standard.webp"
+        },
+        {
+          "id": "4-K06",
+          "name": "条漫版式",
+          "url": "https://cdn.jsdelivr.net/gh/JimLiu/baoyu-skills@1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-layouts/webtoon.webp",
+          "original": "https://raw.githubusercontent.com/JimLiu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/screenshots/comic-layouts/webtoon.webp"
+        }
+      ]
+    }
+  ],
+  "punk": [
+    {
+      "title": "封面风格 · 33 张",
+      "note": "作者仓库公开样本；点击图片查看原图。",
+      "source": "https://github.com/adrianpunk/Punk-Skill",
+      "items": [
+        {
+          "id": "6-C01",
+          "name": "Anthropic Research 风格",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/anthropic-research-style.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/anthropic-research-style.png"
+        },
+        {
+          "id": "6-C02",
+          "name": "先锋复古建筑海报",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/avant-retro-architecture-poster.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/avant-retro-architecture-poster.png"
+        },
+        {
+          "id": "6-C03",
+          "name": "黑色复古现代主义封面",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/black-midcentury-modernist-cover.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/black-midcentury-modernist-cover.png"
+        },
+        {
+          "id": "6-C04",
+          "name": "黑红剪影",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/black-red-silhouette.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/black-red-silhouette.png"
+        },
+        {
+          "id": "6-C05",
+          "name": "黑白复古蚀刻版画封面",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/black-white-etching-editorial-cover.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/black-white-etching-editorial-cover.png"
+        },
+        {
+          "id": "6-C06",
+          "name": "黑白灰先锋几何",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/black-white-gray-avant-geometry.jpg",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/black-white-gray-avant-geometry.jpg"
+        },
+        {
+          "id": "6-C07",
+          "name": "黑白极简概念",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/black-white-minimal-concept.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/black-white-minimal-concept.png"
+        },
+        {
+          "id": "6-C08",
+          "name": "方块世界",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/block-world.jpg",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/block-world.jpg"
+        },
+        {
+          "id": "6-C09",
+          "name": "品牌协同连接",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/brand-collaboration-connection.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/brand-collaboration-connection.png"
+        },
+        {
+          "id": "6-C10",
+          "name": "积木世界",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/brick-world.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/brick-world.png"
+        },
+        {
+          "id": "6-C11",
+          "name": "商业杂志头版",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/business-magazine-front-page.jpg",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/business-magazine-front-page.jpg"
+        },
+        {
+          "id": "6-C12",
+          "name": "彩色新构成主义巨构海报",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/color-neo-constructivist-megastructure-poster.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/color-neo-constructivist-megastructure-poster.png"
+        },
+        {
+          "id": "6-C13",
+          "name": "咨询报告视觉",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/consulting-report-visual.jpg",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/consulting-report-visual.jpg"
+        },
+        {
+          "id": "6-C14",
+          "name": "法式极简墨线海报",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/french-minimal-ink-poster.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/french-minimal-ink-poster.png"
+        },
+        {
+          "id": "6-C15",
+          "name": "巨型透视中文标题",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/giant-perspective-chinese-title.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/giant-perspective-chinese-title.png"
+        },
+        {
+          "id": "6-C16",
+          "name": "Godot 2D 像素隐喻海报",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/godot-2d-pixel-metaphor-poster.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/godot-2d-pixel-metaphor-poster.png"
+        },
+        {
+          "id": "6-C17",
+          "name": "超大标题图文穿插",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/interleaved-title-editorial-poster.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/interleaved-title-editorial-poster.png"
+        },
+        {
+          "id": "6-C18",
+          "name": "kimi风格",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/kimi-stlye.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/kimi-stlye.png"
+        },
+        {
+          "id": "6-C19",
+          "name": "立体纸雕概念海报",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/layered-paper-cut-concept-poster.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/layered-paper-cut-concept-poster.png"
+        },
+        {
+          "id": "6-C20",
+          "name": "复古时代错位编辑封面",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/midcentury-surreal-editorial-cover.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/midcentury-surreal-editorial-cover.png"
+        },
+        {
+          "id": "6-C21",
+          "name": "极简轻科技",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/minimal-light-tech.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/minimal-light-tech.png"
+        },
+        {
+          "id": "6-C22",
+          "name": "极简公共空间摄影",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/minimal-public-space-photography.jpg",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/minimal-public-space-photography.jpg"
+        },
+        {
+          "id": "6-C23",
+          "name": "极简视觉隐喻风",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/minimal-visual-metaphor.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/minimal-visual-metaphor.png"
+        },
+        {
+          "id": "6-C24",
+          "name": "OSB 工业蓝线条隐喻",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/osb-industrial-blue-line-metaphor.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/osb-industrial-blue-line-metaphor.png"
+        },
+        {
+          "id": "6-C25",
+          "name": "纸面击凸压凹封面",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/paper-emboss-deboss-cover.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/paper-emboss-deboss-cover.png"
+        },
+        {
+          "id": "6-C26",
+          "name": "科研期刊概念",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/research-journal-concept.jpg",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/research-journal-concept.jpg"
+        },
+        {
+          "id": "6-C27",
+          "name": "复古弥散渐变",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/retro-diffuse-gradient.jpg",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/retro-diffuse-gradient.jpg"
+        },
+        {
+          "id": "6-C28",
+          "name": "复古未来主义",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/retro-futurism.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/retro-futurism.png"
+        },
+        {
+          "id": "6-C29",
+          "name": "复古油墨点阵隐喻",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/retro-ink-dot-matrix-metaphor.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/retro-ink-dot-matrix-metaphor.png"
+        },
+        {
+          "id": "6-C30",
+          "name": "复古日本科幻动画",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/retro-japanese-sci-fi-anime-cover.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/retro-japanese-sci-fi-anime-cover.png"
+        },
+        {
+          "id": "6-C31",
+          "name": "复古手撕拼贴",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/retro-torn-collage.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/retro-torn-collage.png"
+        },
+        {
+          "id": "6-C32",
+          "name": "语义转译极简",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/semantic-minimal-translation.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/semantic-minimal-translation.png"
+        },
+        {
+          "id": "6-C33",
+          "name": "银色锡纸蓝字",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/silver-foil-blue-minimal.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-cover-styles/silver-foil-blue-minimal.png"
+        }
+      ]
+    },
+    {
+      "title": "头像与物品／场景插画 · 7 张",
+      "note": "作者仓库公开样本；点击图片查看原图。",
+      "source": "https://github.com/adrianpunk/Punk-Skill",
+      "items": [
+        {
+          "id": "6-A01",
+          "name": "时尚速写观察页",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-avatar-styles/fashion-sketch-observation.jpg",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-avatar-styles/fashion-sketch-observation.jpg"
+        },
+        {
+          "id": "6-A02",
+          "name": "怪诞灵魂手绘",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-avatar-styles/grotesque-soul-sketch.jpg",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-avatar-styles/grotesque-soul-sketch.jpg"
+        },
+        {
+          "id": "6-A03",
+          "name": "凌乱蜡笔宠物肖像",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-avatar-styles/messy-crayon-pet-portrait.jpg",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-avatar-styles/messy-crayon-pet-portrait.jpg"
+        },
+        {
+          "id": "6-A04",
+          "name": "极简纸感丙烯色块插画",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-avatar-styles/minimal-paper-acrylic-block-illustration.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-avatar-styles/minimal-paper-acrylic-block-illustration.png"
+        },
+        {
+          "id": "6-A05",
+          "name": "像素头像",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-avatar-styles/pixel-avatar.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-avatar-styles/pixel-avatar.png"
+        },
+        {
+          "id": "6-A06",
+          "name": "拍立得纪念卡",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-avatar-styles/polaroid-keepsake.jpg",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-avatar-styles/polaroid-keepsake.jpg"
+        },
+        {
+          "id": "6-A07",
+          "name": "立体人物扁平景色纸艺",
+          "url": "https://cdn.jsdelivr.net/gh/adrianpunk/Punk-Skill@c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-avatar-styles/surreal-pop-up-paper-landscape.png",
+          "original": "https://raw.githubusercontent.com/adrianpunk/Punk-Skill/c9ad7a3745e07060c50270141efed418a0cd04d6/screenshots/punk-avatar-styles/surreal-pop-up-paper-landscape.png"
+        }
+      ]
+    },
+    {
+      "title": "真人 IP 视频封面 · 25 种说明，无公开样本图",
+      "note": "作者目录明确未附参考图，不能将名称当作已验证成品。",
+      "source": "https://github.com/adrianpunk/Punk-Skill/blob/main/skills/punk-ip-video-cover/references/style-catalog.md",
+      "names": [
+        "Y2K 服装取色泡泡字",
+        "拱形大字＋夸张表情",
+        "悬浮工具＋下弧标题",
+        "复古漫画动作海报",
+        "撕纸拼贴＋手绘展示字",
+        "服装取色·真人撕纸拼贴",
+        "巨型关键词贴纸＋人物前后遮挡",
+        "柔粉糖果色＋人物贴纸",
+        "巨物微缩人物＋沿道具弯排",
+        "真实口播＋少量衬线文字",
+        "近大远小产品＋巨大型号字",
+        "蓝色立体型号＋科技线框",
+        "笔刷关键词＋侧边错落短句",
+        "拱形品牌字＋产品梯队",
+        "跳跃涂鸦字＋左右包围",
+        "暗调侧脸＋极简细字",
+        "白色手写＋星芒记录",
+        "银色花卉拼贴＋轻衬线标题",
+        "分格生活日记＋轻标题",
+        "彩色衬线字＋大小错落",
+        "巨型透视地名字＋场景纵深",
+        "荧光底边黑字＋顶部对话框",
+        "手绘空心字＋上下 VS 对照",
+        "奇观主题道具＋重型漫画字",
+        "胶片叙事＋杂志式旁注"
+      ]
+    }
+  ],
+  "xiaohei": [
+    {
+      "title": "白底手绘 · 全部内置示例 · 14 张",
+      "note": "14 张不同内容示例，共用同一套小黑手绘语言，不是 14 种独立风格。",
+      "source": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+      "items": [
+        {
+          "id": "7-I01",
+          "name": "两个断点",
+          "url": "https://cdn.jsdelivr.net/gh/helloianneo/ian-xiaohei-illustrations@4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/01-two-breakpoints.png",
+          "original": "https://raw.githubusercontent.com/helloianneo/ian-xiaohei-illustrations/4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/01-two-breakpoints.png"
+        },
+        {
+          "id": "7-I02",
+          "name": "最小闭环",
+          "url": "https://cdn.jsdelivr.net/gh/helloianneo/ian-xiaohei-illustrations@4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/02-minimum-loop.png",
+          "original": "https://raw.githubusercontent.com/helloianneo/ian-xiaohei-illustrations/4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/02-minimum-loop.png"
+        },
+        {
+          "id": "7-I03",
+          "name": "按目的分拣",
+          "url": "https://cdn.jsdelivr.net/gh/helloianneo/ian-xiaohei-illustrations@4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/03-sort-by-purpose.png",
+          "original": "https://raw.githubusercontent.com/helloianneo/ian-xiaohei-illustrations/4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/03-sort-by-purpose.png"
+        },
+        {
+          "id": "7-I04",
+          "name": "一鱼多吃",
+          "url": "https://cdn.jsdelivr.net/gh/helloianneo/ian-xiaohei-illustrations@4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/04-one-fish-many-uses.png",
+          "original": "https://raw.githubusercontent.com/helloianneo/ian-xiaohei-illustrations/4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/04-one-fish-many-uses.png"
+        },
+        {
+          "id": "7-I05",
+          "name": "承接路径",
+          "url": "https://cdn.jsdelivr.net/gh/helloianneo/ian-xiaohei-illustrations@4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/05-handoff-path.png",
+          "original": "https://raw.githubusercontent.com/helloianneo/ian-xiaohei-illustrations/4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/05-handoff-path.png"
+        },
+        {
+          "id": "7-I06",
+          "name": "三种来源",
+          "url": "https://cdn.jsdelivr.net/gh/helloianneo/ian-xiaohei-illustrations@4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/06-three-sources.png",
+          "original": "https://raw.githubusercontent.com/helloianneo/ian-xiaohei-illustrations/4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/06-three-sources.png"
+        },
+        {
+          "id": "7-I07",
+          "name": "三项内容工作",
+          "url": "https://cdn.jsdelivr.net/gh/helloianneo/ian-xiaohei-illustrations@4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/07-three-content-jobs.png",
+          "original": "https://raw.githubusercontent.com/helloianneo/ian-xiaohei-illustrations/4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/07-three-content-jobs.png"
+        },
+        {
+          "id": "7-I08",
+          "name": "承接文案工具箱",
+          "url": "https://cdn.jsdelivr.net/gh/helloianneo/ian-xiaohei-illustrations@4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/08-handoff-copy-toolbox.png",
+          "original": "https://raw.githubusercontent.com/helloianneo/ian-xiaohei-illustrations/4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/08-handoff-copy-toolbox.png"
+        },
+        {
+          "id": "7-I09",
+          "name": "常见坑",
+          "url": "https://cdn.jsdelivr.net/gh/helloianneo/ian-xiaohei-illustrations@4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/09-common-pits-no-title.png",
+          "original": "https://raw.githubusercontent.com/helloianneo/ian-xiaohei-illustrations/4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/09-common-pits-no-title.png"
+        },
+        {
+          "id": "7-I10",
+          "name": "信息井",
+          "url": "https://cdn.jsdelivr.net/gh/helloianneo/ian-xiaohei-illustrations@4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/10-information-well.png",
+          "original": "https://raw.githubusercontent.com/helloianneo/ian-xiaohei-illustrations/4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/10-information-well.png"
+        },
+        {
+          "id": "7-I11",
+          "name": "想法压机",
+          "url": "https://cdn.jsdelivr.net/gh/helloianneo/ian-xiaohei-illustrations@4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/11-idea-press.png",
+          "original": "https://raw.githubusercontent.com/helloianneo/ian-xiaohei-illustrations/4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/11-idea-press.png"
+        },
+        {
+          "id": "7-I12",
+          "name": "内容发酵",
+          "url": "https://cdn.jsdelivr.net/gh/helloianneo/ian-xiaohei-illustrations@4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/12-content-fermentation.png",
+          "original": "https://raw.githubusercontent.com/helloianneo/ian-xiaohei-illustrations/4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/12-content-fermentation.png"
+        },
+        {
+          "id": "7-I13",
+          "name": "系统轴承",
+          "url": "https://cdn.jsdelivr.net/gh/helloianneo/ian-xiaohei-illustrations@4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/13-system-bearing.png",
+          "original": "https://raw.githubusercontent.com/helloianneo/ian-xiaohei-illustrations/4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/13-system-bearing.png"
+        },
+        {
+          "id": "7-I14",
+          "name": "信任桥",
+          "url": "https://cdn.jsdelivr.net/gh/helloianneo/ian-xiaohei-illustrations@4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/14-trust-bridge.png",
+          "original": "https://raw.githubusercontent.com/helloianneo/ian-xiaohei-illustrations/4102eb807f03bcb6e538a16e8b31b41db8b5b954/ian-xiaohei-illustrations/assets/examples/14-trust-bridge.png"
+        }
+      ]
+    }
+  ],
+  "other": [
+    {
+      "title": "WeWrite · 6 个排版预览 · 6 张",
+      "note": "整篇公众号排版预览，不能视为独立 AI 封面生成风格。",
+      "source": "https://github.com/imraywang/wewrite",
+      "items": [
+        {
+          "id": "15-P01",
+          "name": "包豪斯",
+          "url": "https://cdn.jsdelivr.net/gh/imraywang/wewrite@95f4d507fb789c695c61cdf0d54bd1ee0fcfd117/docs/screenshots/bauhaus.png",
+          "original": "https://raw.githubusercontent.com/imraywang/wewrite/95f4d507fb789c695c61cdf0d54bd1ee0fcfd117/docs/screenshots/bauhaus.png"
+        },
+        {
+          "id": "15-P02",
+          "name": "午夜",
+          "url": "https://cdn.jsdelivr.net/gh/imraywang/wewrite@95f4d507fb789c695c61cdf0d54bd1ee0fcfd117/docs/screenshots/midnight.png",
+          "original": "https://raw.githubusercontent.com/imraywang/wewrite/95f4d507fb789c695c61cdf0d54bd1ee0fcfd117/docs/screenshots/midnight.png"
+        },
+        {
+          "id": "15-P03",
+          "name": "专业清爽",
+          "url": "https://cdn.jsdelivr.net/gh/imraywang/wewrite@95f4d507fb789c695c61cdf0d54bd1ee0fcfd117/docs/screenshots/professional-clean.png",
+          "original": "https://raw.githubusercontent.com/imraywang/wewrite/95f4d507fb789c695c61cdf0d54bd1ee0fcfd117/docs/screenshots/professional-clean.png"
+        },
+        {
+          "id": "15-P04",
+          "name": "少数派",
+          "url": "https://cdn.jsdelivr.net/gh/imraywang/wewrite@95f4d507fb789c695c61cdf0d54bd1ee0fcfd117/docs/screenshots/sspai.png",
+          "original": "https://raw.githubusercontent.com/imraywang/wewrite/95f4d507fb789c695c61cdf0d54bd1ee0fcfd117/docs/screenshots/sspai.png"
+        },
+        {
+          "id": "15-P05",
+          "name": "现代科技",
+          "url": "https://cdn.jsdelivr.net/gh/imraywang/wewrite@95f4d507fb789c695c61cdf0d54bd1ee0fcfd117/docs/screenshots/tech-modern.png",
+          "original": "https://raw.githubusercontent.com/imraywang/wewrite/95f4d507fb789c695c61cdf0d54bd1ee0fcfd117/docs/screenshots/tech-modern.png"
+        },
+        {
+          "id": "15-P06",
+          "name": "温暖编辑",
+          "url": "https://cdn.jsdelivr.net/gh/imraywang/wewrite@95f4d507fb789c695c61cdf0d54bd1ee0fcfd117/docs/screenshots/warm-editorial.png",
+          "original": "https://raw.githubusercontent.com/imraywang/wewrite/95f4d507fb789c695c61cdf0d54bd1ee0fcfd117/docs/screenshots/warm-editorial.png"
+        }
+      ]
+    },
+    {
+      "title": "写了就发 · 图文卡片与长文界面",
+      "note": "作者实际界面截图，用来观察排版与配图呈现，不是生图样本。",
+      "source": "https://github.com/fxyadela/write-then-publish",
+      "items": [
+        {
+          "id": "8-P01",
+          "name": "图文卡片工作区",
+          "url": "https://cdn.jsdelivr.net/gh/fxyadela/write-then-publish@6ff00b06ae0f04aa119449a037a4a1c83e03c8ae/docs/readme/workspace-multicards-fullscreen.jpg",
+          "original": "https://raw.githubusercontent.com/fxyadela/write-then-publish/6ff00b06ae0f04aa119449a037a4a1c83e03c8ae/docs/readme/workspace-multicards-fullscreen.jpg"
+        },
+        {
+          "id": "8-P02",
+          "name": "公众号长文与图片排版",
+          "url": "https://cdn.jsdelivr.net/gh/fxyadela/write-then-publish@6ff00b06ae0f04aa119449a037a4a1c83e03c8ae/docs/readme/article-mode-user-image.jpg",
+          "original": "https://raw.githubusercontent.com/fxyadela/write-then-publish/6ff00b06ae0f04aa119449a037a4a1c83e03c8ae/docs/readme/article-mode-user-image.jpg"
+        }
+      ]
+    },
+    {
+      "title": "归藏 · 2 套视觉系统、10 个主题",
+      "note": "公开仓库中未找到完整成品组图，只列官方主题名称；材质背景不当成封面样本。",
+      "source": "https://github.com/op7418/guizang-social-card-skill",
+      "names": [
+        "电子杂志：墨水经典、靛蓝瓷、森林墨、牛皮纸、沙丘、Midnight Ink",
+        "瑞士国际主义：IKB 蓝、柠檬黄、柠檬绿、安全橙"
+      ]
+    },
+    {
+      "title": "Creator Buddy · 62 个图文设计方向",
+      "note": "官方风格注册表列出品牌气质方向；当前仓库没有对应的公开成品图集。",
+      "source": "https://github.com/SpaceZephyr/creator-buddy/blob/main/xhs-Skills/xhs-html/references/style-registry.md",
+      "names": [
+        "apple",
+        "claude",
+        "cursor",
+        "elevenlabs",
+        "figma",
+        "framer",
+        "lovable",
+        "meta",
+        "minimax",
+        "mintlify",
+        "mistral.ai",
+        "notion",
+        "ollama",
+        "opencode.ai",
+        "posthog",
+        "raycast",
+        "replicate",
+        "resend",
+        "runwayml",
+        "sanity",
+        "sentry",
+        "supabase",
+        "superhuman",
+        "together.ai",
+        "vercel",
+        "voltagent",
+        "warp",
+        "webflow",
+        "x.ai",
+        "zapier",
+        "airtable",
+        "cal",
+        "clay",
+        "clickhouse",
+        "cohere",
+        "composio",
+        "expo",
+        "hashicorp",
+        "ibm",
+        "intercom",
+        "linear.app",
+        "miro",
+        "mongodb",
+        "nvidia",
+        "pinterest",
+        "stripe",
+        "binance",
+        "coinbase",
+        "kraken",
+        "revolut",
+        "wise",
+        "airbnb",
+        "bmw",
+        "ferrari",
+        "lamborghini",
+        "nike",
+        "renault",
+        "shopify",
+        "spacex",
+        "spotify",
+        "tesla",
+        "uber"
+      ]
+    }
+  ]
+}

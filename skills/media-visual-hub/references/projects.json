@@ -1,0 +1,247 @@
+[
+  {
+    "article_number": 1,
+    "name": "自媒体内容工作流",
+    "repository": "yanhua1010/self-media-content-workflow",
+    "url": "https://github.com/yanhua1010/self-media-content-workflow",
+    "branch": "main",
+    "commit": "6cb1f1fca1595750720189ed0dd6dd6d6ffbdb52",
+    "license": "MIT",
+    "uses": [
+      "正文配图",
+      "内容策划"
+    ],
+    "local_path": "upstream/self-media-content-workflow",
+    "skill_paths": [
+      "skills/self-media-content-analytics/SKILL.md",
+      "skills/self-media-content-brief/SKILL.md",
+      "skills/self-media-content-delivery/SKILL.md",
+      "skills/self-media-content-strategy/SKILL.md",
+      "skills/self-media-content-workflow/SKILL.md",
+      "skills/self-media-platform-copywriting/SKILL.md",
+      "skills/self-media-short-video/SKILL.md",
+      "skills/self-media-trend-radar/SKILL.md",
+      "skills/self-media-video-publisher/SKILL.md",
+      "skills/self-media-wechat-publisher/SKILL.md"
+    ],
+    "checked_at": "2026-10-11",
+    "tree_truncated": false
+  },
+  {
+    "article_number": 2,
+    "name": "Creator Buddy",
+    "repository": "SpaceZephyr/creator-buddy",
+    "url": "https://github.com/SpaceZephyr/creator-buddy",
+    "branch": "main",
+    "commit": "edf46c567ff54b72ee2157d06f3a02dbd67aaa9c",
+    "license": "unspecified",
+    "uses": [
+      "封面",
+      "组图",
+      "图表"
+    ],
+    "local_path": "upstream/creator-buddy",
+    "skill_paths": [
+      "SKILL.md",
+      "gzh-Skills/baokuan-article-analysis/SKILL.md",
+      "gzh-Skills/baokuan-title-generator/SKILL.md",
+      "gzh-Skills/global-content-search/SKILL.md",
+      "gzh-Skills/gzh-explosive-content-detector/SKILL.md",
+      "gzh-Skills/gzh-longform-writer/SKILL.md",
+      "gzh-Skills/gzh-positioning/SKILL.md",
+      "gzh-Skills/gzh-short-post/SKILL.md",
+      "gzh-Skills/space-chart-image/SKILL.md",
+      "gzh-Skills/space-gzh-cover/SKILL.md",
+      "gzh-Skills/space-text-logic-diagram/SKILL.md",
+      "gzh-Skills/space-wechat-layout/SKILL.md",
+      "gzh-Skills/xhs-hotnotes/SKILL.md",
+      "video-Skills/space-video-audio/SKILL.md",
+      "video-Skills/space-video-broll-sketch/SKILL.md",
+      "video-Skills/space-video-broll/SKILL.md",
+      "video-Skills/space-video-cover/SKILL.md",
+      "video-Skills/space-video-edit/SKILL.md",
+      "video-Skills/space-video-script/SKILL.md",
+      "video-Skills/space-video-subtitle/SKILL.md",
+      "video-Skills/space-video-topic/SKILL.md",
+      "video-Skills/space-video-transcript/SKILL.md",
+      "video-Skills/space-video/SKILL.md",
+      "xhs-Skills/space-xhs-account-audit/SKILL.md",
+      "xhs-Skills/space-xhs-buddy/SKILL.md",
+      "xhs-Skills/space-xhs-cover/SKILL.md",
+      "xhs-Skills/space-xhs-hotspot/SKILL.md",
+      "xhs-Skills/space-xhs-image/SKILL.md",
+      "xhs-Skills/space-xhs-note-analytics/SKILL.md",
+      "xhs-Skills/space-xhs-positioning/SKILL.md",
+      "xhs-Skills/space-xhs-title/SKILL.md",
+      "xhs-Skills/space-xhs-writer/SKILL.md",
+      "xhs-Skills/xhs-html/SKILL.md"
+    ],
+    "checked_at": "2026-10-11",
+    "tree_truncated": false
+  },
+  {
+    "article_number": 4,
+    "name": "宝玉 Skills",
+    "repository": "JimLiu/baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "branch": "main",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "license": "MIT",
+    "uses": [
+      "封面",
+      "正文配图",
+      "信息图",
+      "组图",
+      "漫画"
+    ],
+    "local_path": "upstream/baoyu-skills",
+    "skill_paths": [
+      ".claude/skills/release-skills/SKILL.md",
+      "skills/baoyu-article-illustrator/SKILL.md",
+      "skills/baoyu-comic/SKILL.md",
+      "skills/baoyu-compress-image/SKILL.md",
+      "skills/baoyu-cover-image/SKILL.md",
+      "skills/baoyu-danger-gemini-web/SKILL.md",
+      "skills/baoyu-danger-x-to-markdown/SKILL.md",
+      "skills/baoyu-diagram/SKILL.md",
+      "skills/baoyu-electron-extract/SKILL.md",
+      "skills/baoyu-format-markdown/SKILL.md",
+      "skills/baoyu-image-gen/SKILL.md",
+      "skills/baoyu-infographic/SKILL.md",
+      "skills/baoyu-markdown-to-html/SKILL.md",
+      "skills/baoyu-post-to-wechat/SKILL.md",
+      "skills/baoyu-post-to-weibo/SKILL.md",
+      "skills/baoyu-post-to-x/SKILL.md",
+      "skills/baoyu-slide-deck/SKILL.md",
+      "skills/baoyu-translate/SKILL.md",
+      "skills/baoyu-url-to-markdown/SKILL.md",
+      "skills/baoyu-wechat-summary/SKILL.md",
+      "skills/baoyu-xhs-images/SKILL.md",
+      "skills/baoyu-youtube-transcript/SKILL.md"
+    ],
+    "checked_at": "2026-10-11",
+    "tree_truncated": false
+  },
+  {
+    "article_number": 5,
+    "name": "归藏社交卡片",
+    "repository": "op7418/guizang-social-card-skill",
+    "url": "https://github.com/op7418/guizang-social-card-skill",
+    "branch": "main",
+    "commit": "cf4b810fac1c73fb65a2bb31d8c9278d82cbc4c5",
+    "license": "AGPL-3.0",
+    "uses": [
+      "封面",
+      "图文卡片"
+    ],
+    "local_path": "upstream/guizang-social-card-skill",
+    "skill_paths": [
+      "SKILL.md"
+    ],
+    "checked_at": "2026-10-11",
+    "tree_truncated": false
+  },
+  {
+    "article_number": 6,
+    "name": "Punk Skills",
+    "repository": "adrianpunk/Punk-Skill",
+    "url": "https://github.com/adrianpunk/Punk-Skill",
+    "branch": "main",
+    "commit": "c9ad7a3745e07060c50270141efed418a0cd04d6",
+    "license": "NOASSERTION",
+    "uses": [
+      "封面",
+      "真人 IP",
+      "头像"
+    ],
+    "local_path": "upstream/Punk-Skill",
+    "skill_paths": [
+      "skills/punk-avatar/SKILL.md",
+      "skills/punk-cover/SKILL.md",
+      "skills/punk-ip-video-cover/SKILL.md"
+    ],
+    "checked_at": "2026-10-11",
+    "tree_truncated": false
+  },
+  {
+    "article_number": 7,
+    "name": "小黑手绘配图",
+    "repository": "helloianneo/ian-xiaohei-illustrations",
+    "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+    "branch": "main",
+    "commit": "4102eb807f03bcb6e538a16e8b31b41db8b5b954",
+    "license": "MIT",
+    "uses": [
+      "正文解释图"
+    ],
+    "local_path": "upstream/ian-xiaohei-illustrations",
+    "skill_paths": [
+      "ian-xiaohei-illustrations/SKILL.md"
+    ],
+    "checked_at": "2026-10-11",
+    "tree_truncated": false
+  },
+  {
+    "article_number": 8,
+    "name": "写了就发",
+    "repository": "fxyadela/write-then-publish",
+    "url": "https://github.com/fxyadela/write-then-publish",
+    "branch": "main",
+    "commit": "6ff00b06ae0f04aa119449a037a4a1c83e03c8ae",
+    "license": "NOASSERTION",
+    "uses": [
+      "已有图文排版"
+    ],
+    "local_path": "upstream/write-then-publish",
+    "skill_paths": [],
+    "checked_at": "2026-10-11",
+    "tree_truncated": false
+  },
+  {
+    "article_number": 14,
+    "name": "小红书运营",
+    "repository": "Xiangyu-CAS/xiaohongshu-ops-skill",
+    "url": "https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill",
+    "branch": "main",
+    "commit": "5b0b80b7261396955de0494df18182f2401cabc4",
+    "license": "unspecified",
+    "uses": [
+      "小红书封面"
+    ],
+    "local_path": "upstream/xiaohongshu-ops-skill",
+    "skill_paths": [
+      "SKILL.md"
+    ],
+    "checked_at": "2026-10-11",
+    "tree_truncated": false
+  },
+  {
+    "article_number": 15,
+    "name": "WeWrite",
+    "repository": "imraywang/wewrite",
+    "url": "https://github.com/imraywang/wewrite",
+    "branch": "main",
+    "commit": "95f4d507fb789c695c61cdf0d54bd1ee0fcfd117",
+    "license": "MIT",
+    "uses": [
+      "封面",
+      "正文配图",
+      "文章排版"
+    ],
+    "local_path": "upstream/wewrite",
+    "skill_paths": [
+      "skills/wewrite-learn/SKILL.md",
+      "skills/wewrite-publish/SKILL.md",
+      "skills/wewrite-review/SKILL.md",
+      "skills/wewrite-rewrite/SKILL.md",
+      "skills/wewrite-stats/SKILL.md",
+      "skills/wewrite-style/SKILL.md",
+      "skills/wewrite-topic/SKILL.md",
+      "skills/wewrite-visual/SKILL.md",
+      "skills/wewrite-write/SKILL.md",
+      "skills/wewrite/SKILL.md"
+    ],
+    "checked_at": "2026-10-11",
+    "tree_truncated": false
+  }
+]
